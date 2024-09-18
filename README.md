@@ -48,7 +48,7 @@ disponibles en el entorno.
 
 ## Autor
 
-Codificado con :sparkling_heart: por [José Luis González Sánchez](https://twitter.com/JoseLuisGS_)
+Codificado con :sparkling_heart: por [MI](https://twitter.com/JoseLuisGS_)
 
 [![Twitter](https://img.shields.io/twitter/follow/JoseLuisGS_?style=social)](https://twitter.com/JoseLuisGS_)
 [![GitHub](https://img.shields.io/github/followers/joseluisgs?style=social)](https://github.com/joseluisgs)
